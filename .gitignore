@@ -2,5 +2,6 @@
 /local-config.php
 /sql-dump-*.sql
 /db-sync
-/content/upgrade/
+/wp-content/upgrade/
+/wp-content/uploads/
 .DS_Store
