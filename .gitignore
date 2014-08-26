@@ -1,7 +1,4 @@
 /shared
 /local-config.php
-/sql-dump-*.sql
-/db-sync
 /wp-content/upgrade/
 /wp-content/uploads/
-.DS_Store
