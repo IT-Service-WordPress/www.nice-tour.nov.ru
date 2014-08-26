@@ -13,14 +13,7 @@ GitHub Plugin URI: 	https://github.com/IT-Service-WordPress/wpf-v1
 
 namespace WPF\v1;
 
-// If this file is called directly, abort.
-if ( ! defined( 'WPINC' ) ) {
-	die;
-}
-
-define( 'WPFINCv1', __DIR__ );
-require_once( 'wpf-v1' . DIRECTORY_SEPARATOR . 'wpf_loader.php' );
-Loader::set_root_dir();
-Loader::_require_once( 'wpf_inc2.php' );
+define( 'WPFMUPv1', __FILE__ );
+require_once( 'wpf-v1' . DIRECTORY_SEPARATOR . 'wpf_inc.php' );
 
 ?>
