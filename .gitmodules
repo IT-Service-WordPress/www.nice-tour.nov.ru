@@ -7,3 +7,6 @@
 [submodule "wp-content/mu-plugins/wpf-v1"]
 	path = wp-content/mu-plugins/wpf-v1
 	url = git@github.com:IT-Service-WordPress/WPF.git
+[submodule "wp-content/themes/twentyfourteen"]
+	path = wp-content/themes/twentyfourteen
+	url = git@github.com:IT-Service-WordPress/twentyfourteen.git
