@@ -16,3 +16,6 @@
 [submodule "wp-content/plugins/wp-pagenavi"]
 	path = wp-content/plugins/wp-pagenavi
 	url = git@github.com:wp-plugins/wp-pagenavi.git
+[submodule "wp-content/plugins/theme-check"]
+	path = wp-content/plugins/theme-check
+	url = git@github.com:wp-plugins/theme-check.git
