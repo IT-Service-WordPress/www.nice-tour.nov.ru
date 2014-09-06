@@ -10,3 +10,6 @@
 [submodule "wp-content/themes/twentyfourteen"]
 	path = wp-content/themes/twentyfourteen
 	url = git@github.com:IT-Service-WordPress/twentyfourteen.git
+[submodule "wp-content/plugins/akismet"]
+	path = wp-content/plugins/akismet
+	url = git@github.com:wp-plugins/akismet.git
