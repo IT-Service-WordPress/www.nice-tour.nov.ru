@@ -13,3 +13,6 @@
 [submodule "wp-content/plugins/akismet"]
 	path = wp-content/plugins/akismet
 	url = git@github.com:wp-plugins/akismet.git
+[submodule "wp-content/plugins/wp-pagenavi"]
+	path = wp-content/plugins/wp-pagenavi
+	url = git@github.com:wp-plugins/wp-pagenavi.git
